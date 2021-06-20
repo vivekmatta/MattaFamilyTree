@@ -1,0 +1,157 @@
+digraph {
+	Choitram [label=Choitram]
+	Kimatram [label=Kimatram]
+	Kalyandas [label=Kalyandas]
+	Tekchand [label=Tekchand]
+	Thanwerdas [label=Thanwerdas]
+	Narayandas [label=Narayandas]
+	Rochal [label=Rochal]
+	Dadan [label=Dadan]
+	Pari [label=Pari]
+	Devi [label=Devi]
+	Tulsi [label=Tulsi]
+	Sobhraj [label=Sobhraj]
+	Dharamdas [label=Dharamdas]
+	Deumal [label=Deumal]
+	Bhagwani [label=Bhagwani]
+	Parmeshwari [label=Parmeshwari]
+	Bhagi [label=Bhagi]
+	Lakho [label=Lakho]
+	Jawahry [label=Jawahry]
+	Suri [label=Suri]
+	Durga [label=Durga]
+	Rami [label=Rami]
+	Parsram [label=Parsram]
+	Shivdayal [label=Shivdayal]
+	Jamnu [label=Jamnu]
+	Lakho2 [label=Lakho2]
+	Daya [label=Daya]
+	Mohini [label=Mohini]
+	Bhagi2 [label=Bhagi2]
+	Menghraj [label=Menghraj]
+	Shanti [label=Shanti]
+	Lajja [label=Lajja]
+	Q1 [label=Q1]
+	Lakhan [label=Lakhan]
+	Jamna [label=Jamna]
+	Tulsi2 [label=Tulsi2]
+	Dolan [label=Dolan]
+	Q2 [label=Q2]
+	Q3 [label=Q3]
+	Q4 [label=Q4]
+	Q5 [label=Q5]
+	Q6 [label=Q6]
+	Q7 [label=Q7]
+	Raju [label=Raju]
+	Omprakash [label=Omprakash]
+	Q8 [label=Q8]
+	Shivratan [label=Shivratan]
+	Jetho [label=Jetho]
+	Q9 [label=Q9]
+	Q10 [label=Q10]
+	Q11 [label=Q11]
+	Q12 [label=Q12]
+	Q13 [label=Q13]
+	Q14 [label=Q14]
+	Teko [label=Teko]
+	Ram [label=Ram]
+	Ghanshyam [label=Ghanshyam]
+	Q15 [label=Q15]
+	Q16 [label=Q16]
+	Q17 [label=Q17]
+	Vasudev [label=Vasudev]
+	Deepak [label=Deepak]
+	Kamal [label=Kamal]
+	Kishore [label=Kishore]
+	Anil [label=Anil]
+	Naresh [label=Naresh]
+	Raju2 [label=Raju2]
+	Sameer [label=Sameer]
+	Sonia [label=Sonia]
+	Sherna [label=Sherna]
+	Vinay [label=Vinay]
+	Monika [label=Monika]
+	Pooja [label=Pooja]
+	Rahul [label=Rahul]
+	Punit [label=Punit]
+	Nisha [label=Nisha]
+	Vivek [label=Vivek]
+	Rohan [label=Rohan]
+	Vasudev -> Deepak
+	Vasudev -> Kamal
+	Vasudev -> Kishore
+	Vasudev -> Anil
+	Vasudev -> Naresh
+	Vasudev -> Raju2
+	Deepak -> Sameer
+	Kamal -> Sonia
+	Kamal -> Sherna
+	Anil -> Pooja
+	Anil -> Rahul
+	Naresh -> Punit
+	Naresh -> Nisha
+	Raju2 -> Vivek
+	Raju2 -> Rohan
+	Durga -> Q2
+	Durga -> Q3
+	Rami -> Q4
+	Rami -> Q5
+	Rami -> Q6
+	Rami -> Q7
+	Omprakash -> Q16
+	Omprakash -> Q17
+	Kimatram -> Thanwerdas
+	Kimatram -> Narayandas
+	Kimatram -> Rochal
+	Kimatram -> Dadan
+	Kimatram -> Pari
+	Kimatram -> Devi
+	Kimatram -> Tulsi
+	Choitram -> Kimatram
+	Choitram -> Kalyandas
+	Choitram -> Tekchand
+	Kalyandas -> Sobhraj
+	Kalyandas -> Dharamdas
+	Kalyandas -> Deumal
+	Narayandas -> Lakho
+	Narayandas -> Jawahry
+	Narayandas -> Suri
+	Narayandas -> Durga
+	Narayandas -> Rami
+	Thanwerdas -> Bhagwani
+	Thanwerdas -> Parmeshwari
+	Thanwerdas -> Bhagi
+	Thanwerdas -> Vasudev
+	Kishore -> Vinay
+	Kishore -> Monika
+	Devi -> Parsram
+	Devi -> Shivdayal
+	Devi -> Jamnu
+	Devi -> Lakho2
+	Devi -> Daya
+	Devi -> Mohini
+	Sobhraj -> Menghraj
+	Tulsi -> Bhagi2
+	Bhagwani -> Shanti
+	Bhagwani -> Lajja
+	Bhagi -> Q1
+	Bhagi -> Lakhan
+	Bhagi -> Jamna
+	Bhagi -> Tulsi2
+	Bhagi -> Dolan
+	Menghraj -> Raju
+	Menghraj -> Omprakash
+	Menghraj -> Q8
+	Menghraj -> Shivratan
+	Menghraj -> Jetho
+	Tulsi2 -> Ghanshyam
+	Tulsi2 -> Q15
+	Q1 -> Teko
+	Q1 -> Ram
+	Shanti -> Q9
+	Shanti -> Q10
+	Shanti -> Q11
+	Shanti -> Q12
+	Shanti -> Q13
+	Shanti -> Q14
+}
